@@ -4,6 +4,10 @@ Download our Interactive Marketing Model sample code above and visit https://shi
 
 GitHub: https://github.com/andersonbolusherbst/shinyforpython
 
+For working on basic python functions - W3Schools: https://www.w3schools.com/python/python_operators.asp
+
 Website: https://www.hablabs.tech
 
 LinkedIn: https://www.linkedin.com/company/hablabs
+
+
